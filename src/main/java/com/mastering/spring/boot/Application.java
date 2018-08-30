@@ -1,4 +1,4 @@
-package application;
+package com.mastering.spring.boot;
 
 import java.util.Arrays;
 
